@@ -16,7 +16,7 @@ export async function initializeContract() {
     window.walletConnection.account(),
     nearEnv.contractName,
     {
-      viewMethods: [""],
+      viewMethods: ["nft_tokens_for_owner"],
       changeMethods: ["nft_mint"],
     }
   );

@@ -2,6 +2,10 @@ import React from "react";
 
 import { login, logout } from "./utils/near";
 
+import Mint from "./Components/Mint";
+import Cover from "./Components/Cover";
+import coverImg from "./assets/img/NEAR_Spring.jpg";
+
 import "./App.css";
 
 const App = () => {
@@ -10,12 +14,12 @@ const App = () => {
   return (
     <>
       {account.accountId ? (
-        <main>
-          <h1>hello</h1>
-          <button onClick={logout}>logout </button>
-        </main>
+        <div className="container ">
+          <h1 style={{ marginBottom: "25px" }}>hello {account.accountId} !</h1>
+          <Mint logout={logout} nftImage={coverImg} />
+        </div>
       ) : (
-        <button onClick={login}>login </button>
+        <Cover name="Mint Your NFT" login={login} coverImg={coverImg} />
       )}
     </>
   );
