@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/nftChallenge/static/css/main.af2788e5.chunk.css",
-    "main.js": "/nftChallenge/static/js/main.9e9675b6.chunk.js",
-    "main.js.map": "/nftChallenge/static/js/main.9e9675b6.chunk.js.map",
-    "runtime-main.js": "/nftChallenge/static/js/runtime-main.fe4cc02c.js",
-    "runtime-main.js.map": "/nftChallenge/static/js/runtime-main.fe4cc02c.js.map",
-    "static/js/2.d2366a5a.chunk.js": "/nftChallenge/static/js/2.d2366a5a.chunk.js",
-    "static/js/2.d2366a5a.chunk.js.map": "/nftChallenge/static/js/2.d2366a5a.chunk.js.map",
-    "static/js/3.365add5f.chunk.js": "/nftChallenge/static/js/3.365add5f.chunk.js",
-    "static/js/3.365add5f.chunk.js.map": "/nftChallenge/static/js/3.365add5f.chunk.js.map",
-    "index.html": "/nftChallenge/index.html",
-    "static/css/main.af2788e5.chunk.css.map": "/nftChallenge/static/css/main.af2788e5.chunk.css.map",
-    "static/js/2.d2366a5a.chunk.js.LICENSE.txt": "/nftChallenge/static/js/2.d2366a5a.chunk.js.LICENSE.txt",
-    "static/media/NEAR_Spring.d3b68379.jpg": "/nftChallenge/static/media/NEAR_Spring.d3b68379.jpg",
-    "static/media/confetti.4ea37647.png": "/nftChallenge/static/media/confetti.4ea37647.png"
+    "main.css": "/nearspring-nftchallenge/static/css/main.af2788e5.chunk.css",
+    "main.js": "/nearspring-nftchallenge/static/js/main.bf48088c.chunk.js",
+    "main.js.map": "/nearspring-nftchallenge/static/js/main.bf48088c.chunk.js.map",
+    "runtime-main.js": "/nearspring-nftchallenge/static/js/runtime-main.28b8ae97.js",
+    "runtime-main.js.map": "/nearspring-nftchallenge/static/js/runtime-main.28b8ae97.js.map",
+    "static/js/2.c8e7af28.chunk.js": "/nearspring-nftchallenge/static/js/2.c8e7af28.chunk.js",
+    "static/js/2.c8e7af28.chunk.js.map": "/nearspring-nftchallenge/static/js/2.c8e7af28.chunk.js.map",
+    "static/js/3.365add5f.chunk.js": "/nearspring-nftchallenge/static/js/3.365add5f.chunk.js",
+    "static/js/3.365add5f.chunk.js.map": "/nearspring-nftchallenge/static/js/3.365add5f.chunk.js.map",
+    "index.html": "/nearspring-nftchallenge/index.html",
+    "static/css/main.af2788e5.chunk.css.map": "/nearspring-nftchallenge/static/css/main.af2788e5.chunk.css.map",
+    "static/js/2.c8e7af28.chunk.js.LICENSE.txt": "/nearspring-nftchallenge/static/js/2.c8e7af28.chunk.js.LICENSE.txt",
+    "static/media/NEAR_Spring.d3b68379.jpg": "/nearspring-nftchallenge/static/media/NEAR_Spring.d3b68379.jpg",
+    "static/media/confetti.4ea37647.png": "/nearspring-nftchallenge/static/media/confetti.4ea37647.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe4cc02c.js",
-    "static/js/2.d2366a5a.chunk.js",
+    "static/js/runtime-main.28b8ae97.js",
+    "static/js/2.c8e7af28.chunk.js",
     "static/css/main.af2788e5.chunk.css",
-    "static/js/main.9e9675b6.chunk.js"
+    "static/js/main.bf48088c.chunk.js"
   ]
 }
