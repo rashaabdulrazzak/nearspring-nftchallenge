@@ -1,3 +1,30 @@
+# nearspring-nftchallenge
+
+This challenge is the third challenge in NEAR spring.
+This is a 2-step challenge for minting your first NFT on NEAR and creating a frontend for it. It can be as simple or complex as you like!
+Step 1.
+Deploy an NFT smart contract on the testnet. Mint an NFT.
+Step 2.
+Build a frontend to connect with the NFT smart contract you deployed (GitHub pages is the most simple option). The frontend should allow a user to log in with NEAR and mint an NFT to their own wallet.
+
+## The solution:
+
+Step1:
+I used the NFT smart contract from the tutorial [NFT Zero to Hero
+](https://docs.near.org/docs/tutorials/contracts/nfts/introduction#:~:text=In%20this%20Zero%20to%20Hero,contract%20that%20supports%20every%20extension.) to deploy it on to my account `nftchallenge.rashaabdulrazzak.testnet` and Mint an NFT after uploading it to [NFT storage website](https://nft.storage/).
+
+Step2:
+The front-end done using create-react-app and near-api-js to connect to near.
+the user will be asked to login in order to mint his NFT. and after he logged in he can mint his NFT and see it in his wallet.
+
+### Screenshot of the app:
+
+### How to use:
+
+- Clone the repository.
+- Run `npm install`.
+- Run `npm start` and open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +95,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# nearspring-nftchallenge
