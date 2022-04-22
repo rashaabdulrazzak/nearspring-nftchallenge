@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nftChallenge/static/css/main.af2788e5.chunk.css",
+    "main.js": "/nftChallenge/static/js/main.9e9675b6.chunk.js",
+    "main.js.map": "/nftChallenge/static/js/main.9e9675b6.chunk.js.map",
+    "runtime-main.js": "/nftChallenge/static/js/runtime-main.fe4cc02c.js",
+    "runtime-main.js.map": "/nftChallenge/static/js/runtime-main.fe4cc02c.js.map",
+    "static/js/2.d2366a5a.chunk.js": "/nftChallenge/static/js/2.d2366a5a.chunk.js",
+    "static/js/2.d2366a5a.chunk.js.map": "/nftChallenge/static/js/2.d2366a5a.chunk.js.map",
+    "static/js/3.365add5f.chunk.js": "/nftChallenge/static/js/3.365add5f.chunk.js",
+    "static/js/3.365add5f.chunk.js.map": "/nftChallenge/static/js/3.365add5f.chunk.js.map",
+    "index.html": "/nftChallenge/index.html",
+    "static/css/main.af2788e5.chunk.css.map": "/nftChallenge/static/css/main.af2788e5.chunk.css.map",
+    "static/js/2.d2366a5a.chunk.js.LICENSE.txt": "/nftChallenge/static/js/2.d2366a5a.chunk.js.LICENSE.txt",
+    "static/media/NEAR_Spring.d3b68379.jpg": "/nftChallenge/static/media/NEAR_Spring.d3b68379.jpg",
+    "static/media/confetti.4ea37647.png": "/nftChallenge/static/media/confetti.4ea37647.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe4cc02c.js",
+    "static/js/2.d2366a5a.chunk.js",
+    "static/css/main.af2788e5.chunk.css",
+    "static/js/main.9e9675b6.chunk.js"
+  ]
+}
